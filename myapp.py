@@ -26,7 +26,7 @@ def mainmenu():
 
 	response = """
 	<HTML><BODY><h2>
-	<a href="/agenda">Agenda1</a><br>
+	<a href="/agenda">Agenda2</a><br>
 	<a href="/survey">Take Survey</a><br>
 	<a href="/dumpsurveys">Survey Results</a><br>
 	</h2>
